@@ -17,6 +17,11 @@ body {
     border-radius: 12px;
 }
 
+    h1 {
+        font-size: 18px; /* Установите нужный размер шрифта */
+        line-height: 1.5; /* Опционально: увеличивает расстояние между строками */
+    }
+
 textarea {
     width: 90%;
     height: 120px;
